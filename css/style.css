@@ -1,0 +1,57 @@
+*{
+  box-sizing: border-box;
+}
+
+main{
+  width: 230px;
+}
+
+.cuadradog{
+  width: 200px;
+  height: 200px;
+  margin: 15px;
+}
+
+#cg1{
+  background-color: red;
+}
+
+#cg2{
+  background-color: blue;
+}
+
+.cuadradom{
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  
+}
+
+#cm1{
+  background-color: violet;
+  position: relative;
+  margin: 50px;
+}
+
+#cm2{
+  background-color: green;
+  position: relative;
+  margin: 50px;
+ 
+}
+
+.cuadradop{
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+}
+
+#cp1{
+  background-color: yellow;
+}
+
+#cp2{
+  background-color: black;
+  float: left;
+  margin-top: -204px;
+}
